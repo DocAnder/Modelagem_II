@@ -4,20 +4,13 @@ Diagramas para o projeto avaliativo da disciplina.
 Classes baseadas no "RoteiroPromo" a ser desenvolvido para o Projeto Integrador.
 
 
-MOLDES DO TRABALHO
+DIAGRAMAS
 
-Introdução...
-
-Diagrama de ... (fluxo, estado, etc)
-
-TITULO DO DIAGRAMA
-Imagem do diagrama
-Fonte: autor
-
-Descrição/explicação do que o diagrama faz...
-
-
-PRÓXIMO
-
-
-DATA DE ENTREGA: DIA 1
+DIAGRAMA DE ATIVIDADES
+DIAGRAMA DE COMUNICAÇÃO
+DIAGRAMA DE ESTADOS
+DIAGRAMA DE SEQUENCIA
+DIAGRAMA DE COMPONENTES
+DIAGRAMA DE OBJETOS
+DIAGRAMA DE PACOTES
+DIAGRAMA DE INTERAÇÃO
